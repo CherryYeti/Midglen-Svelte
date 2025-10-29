@@ -3,6 +3,8 @@
 	import town1 from '$lib/assets/portfolio/commercial/restaurants/town/town1.jpg';
 	import nagi1 from '$lib/assets/portfolio/commercial/restaurants/nagi/nagi1.jpg';
 	import mistral1 from '$lib/assets/portfolio/commercial/restaurants/mistral/mistral1.jpg';
+	import glencrag1 from '$lib/assets/portfolio/residential/glencrag/glencrag1.jpg';
+	import patrick1 from '$lib/assets/portfolio/residential/patrick/patrick1.jpg';
 	import Carousel from '../../../components/Carousel.svelte';
 
 	let items: CarouselItem[] = [
@@ -17,7 +19,7 @@
 			alt: 'City skyline at sunset'
 		},
 		{
-			src: mistral1,
+			src: patrick1,
 			label: 'Patrick Residence',
 			alt: 'Long straight road in the desert'
 		},
@@ -32,7 +34,7 @@
 			alt: 'Long straight road in the desert'
 		},
 		{
-			src: mistral1,
+			src: glencrag1,
 			label: 'Glencrag Residence',
 			alt: 'Long straight road in the desert'
 		},
