@@ -21,7 +21,8 @@
 		{
 			src: patrick1,
 			label: 'Patrick Residence',
-			alt: 'Long straight road in the desert'
+			alt: 'Long straight road in the desert',
+			link: '/portfolio/residential/patrick'
 		},
 		{
 			src: mistral1,
@@ -36,7 +37,8 @@
 		{
 			src: glencrag1,
 			label: 'Glencrag Residence',
-			alt: 'Long straight road in the desert'
+			alt: 'Long straight road in the desert',
+			link: '/portfolio/residential/glencrag'
 		},
 		{
 			src: mistral1,

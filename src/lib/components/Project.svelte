@@ -61,4 +61,14 @@
 	{#each description as desc, index}
 		<p class="px-8 pt-16 text-2xl">{desc}</p>
 	{/each}
+	{#if architect}
+		<p class="pt-4 text-2xl text-neutral-400">
+			Architect: {architect}
+		</p>
+	{/if}
+	{#if contractor}
+		<p class="pt-4 text-2xl text-neutral-400">
+			Contractor: {contractor}
+		</p>
+	{/if}
 </div>
