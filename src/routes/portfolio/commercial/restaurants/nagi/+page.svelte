@@ -1,5 +1,5 @@
 <script>
-	import Project from '../../../../../components/Project.svelte';
+	import Project from '../../../../../lib/components/Project.svelte';
 	import nagi1 from '$lib/assets/portfolio/commercial/restaurants/nagi/nagi1.jpg';
 	import nagi2 from '$lib/assets/portfolio/commercial/restaurants/nagi/nagi2.jpg';
 </script>

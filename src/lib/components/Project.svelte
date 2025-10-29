@@ -7,7 +7,8 @@
 	export let description: string[] = [];
 	export let subtitles: string[] = [];
 	export let link: string = '';
-
+	export let architect: string = '';
+	export let contractor: string = '';
 	export let interval: number = 8000;
 	export let loop: boolean = true;
 

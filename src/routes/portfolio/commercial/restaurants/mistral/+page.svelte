@@ -1,5 +1,5 @@
 <script>
-	import Project from '../../../../../components/Project.svelte';
+	import Project from '../../../../../lib/components/Project.svelte';
 	import mistral1 from '$lib/assets/portfolio/commercial/restaurants/mistral/mistral1.jpg';
 	import mistral2 from '$lib/assets/portfolio/commercial/restaurants/mistral/mistral2.jpg';
 	import mistral3 from '$lib/assets/portfolio/commercial/restaurants/mistral/mistral3.jpg';

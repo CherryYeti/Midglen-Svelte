@@ -1,5 +1,5 @@
 <script>
-	import Project from '../../../../components/Project.svelte';
+	import Project from '../../../../lib/components/Project.svelte';
 	import barkleyfp1 from '$lib/assets/portfolio/civic/barkleyfp/barkleyfp1.jpg';
 	import barkleyfp2 from '$lib/assets/portfolio/civic/barkleyfp/barkleyfp2.jpg';
 	import barkleyfp3 from '$lib/assets/portfolio/civic/barkleyfp/barkleyfp3.jpg';

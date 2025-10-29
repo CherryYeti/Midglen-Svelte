@@ -5,7 +5,7 @@
 	import mistral1 from '$lib/assets/portfolio/commercial/restaurants/mistral/mistral1.jpg';
 	import glencrag1 from '$lib/assets/portfolio/residential/glencrag/glencrag1.jpg';
 	import patrick1 from '$lib/assets/portfolio/residential/patrick/patrick1.jpg';
-	import Carousel from '../../../components/Carousel.svelte';
+	import Carousel from '../../../lib/components/Carousel.svelte';
 
 	let items: CarouselItem[] = [
 		{

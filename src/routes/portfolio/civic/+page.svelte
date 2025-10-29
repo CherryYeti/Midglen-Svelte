@@ -1,7 +1,7 @@
 <script lang="ts">
 	import type { CarouselItem } from '$lib/types';
 	import barkley1 from '$lib/assets/portfolio/civic/barkleyfp/barkleyfp1.jpg';
-	import Carousel from '../../../components/Carousel.svelte';
+	import Carousel from '../../../lib/components/Carousel.svelte';
 
 	let items: CarouselItem[] = [
 		{

@@ -1,8 +1,8 @@
 <script lang="ts">
 	import '../app.css';
 	import midglen from '$lib/assets/midglen.svg';
-	import Footer from '../components/Footer.svelte';
-	import Navbar from '../components/Navbar.svelte';
+	import Footer from '../lib/components/Footer.svelte';
+	import Navbar from '../lib/components/Navbar.svelte';
 
 	let { children } = $props();
 	import { page } from '$app/state';

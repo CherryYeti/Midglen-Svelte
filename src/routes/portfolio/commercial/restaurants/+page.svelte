@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { CarouselItem } from '$lib/types';
-	import Carousel from '../../../../components/Carousel.svelte';
+	import Carousel from '../../../../lib/components/Carousel.svelte';
 	import town1 from '$lib/assets/portfolio/commercial/restaurants/town/town1.jpg';
 	import nagi1 from '$lib/assets/portfolio/commercial/restaurants/nagi/nagi1.jpg';
 	import mistral1 from '$lib/assets/portfolio/commercial/restaurants/mistral/mistral1.jpg';
